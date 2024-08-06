@@ -3,8 +3,10 @@ This repo sets up a default installation of Kali with all of the tools and confi
 
 # Tool list:
 ### jump
-`sudo apt install golang-go`
-`go install github.com/gsamokovarov/jump@latest`
+```
+sudo apt install golang-go    
+go install github.com/gsamokovarov/jump@latest
+```
 
 
 
